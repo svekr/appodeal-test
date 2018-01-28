@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "853796695934",
+    "firebase_url": "https://appodealtest-8d4ea.firebaseio.com",
+    "project_id": "appodealtest-8d4ea",
+    "storage_bucket": "appodealtest-8d4ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853796695934:android:acb670545ffba374",
+        "android_client_info": {
+          "package_name": "com.EducationTest.AppodealTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853796695934-8622kgi9udr76qj61sfitkhha2ob3afn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNU3GlFFppbeoErnolvrCvlocQHYabsuY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

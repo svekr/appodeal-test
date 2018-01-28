@@ -1,0 +1,9 @@
+-keep class bitter.jnibridge.* { *; }
+-keep class com.unity3d.* { *; }
+-keep class org.fmod.* { *; }
+-dontobfuscate
+
+# Appodeal
+-keep class com.appodeal.** { *; }
+-keep class org.nexage.** { *; }
+-keepattributes EnclosingMethod, InnerClasses, Signature, JavascriptInterface
